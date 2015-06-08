@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="rafananet.repo" name="RafaNaNet Repositorio" version="0.0.1" provider-name="Tibjunior">
+	<extension point="xbmc.addon.repository" name="RafaNaNet Add-on Repository">
+		<info compressed="false">http://raw.github.com/tibjunior/rafananet/master/addons.xml</info>
+		<checksum>http://raw.github.com/tibjunior/rafananet/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/tibjunior/rafananet/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>RafaNaNet Addon</summary>
+		<description>Addon Personalizado</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
